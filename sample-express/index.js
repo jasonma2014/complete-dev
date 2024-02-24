@@ -1,4 +1,4 @@
-import {routeHello, routeAPINames} from "./routes.js";
+import {routeHello, routeAPINames} from "./routes.ts";
 import express from "express";
 
 const server = express();
